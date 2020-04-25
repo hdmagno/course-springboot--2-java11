@@ -1,4 +1,4 @@
-package com.educandoweb.cursocap25;
+package com.educandoweb.coursecap25;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
